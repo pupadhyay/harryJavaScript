@@ -7,3 +7,6 @@ body {
   max-height: 36px;
   height: auto;
 }
+.h1 {
+  font-weight: 900;
+}
